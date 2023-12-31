@@ -186,3 +186,4 @@ All the chats,sweets,bakeries and vegetarian food items are available within the
 ![Screenshot 2023-12-31 112115](https://github.com/mithra916/places-around-me/assets/149986612/428349b7-ce37-4c0c-aac3-160c8045bebc)
 
 ## Result:
+Thus the program for Places Around me is executed Successfully.
